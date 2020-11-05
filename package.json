@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/devmasterjs/js-tdd-course/issues"
   },
-  "homepage": "https://github.com/devmasterjs/js-tdd-course#readme"
+  "homepage": "https://github.com/devmasterjs/js-tdd-course#readme",
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "dependencies": {}
 }
